@@ -222,7 +222,7 @@ onMounted(async () => {
                 :to="{ name: 'articles' }"
                 class="btn fw-bold text-white rounded-3 text-black ps-lg-4 pe-lg-4 px-5"
                 style="
-                  background: #cea539;
+                  background: #383f85;
                   padding-top: 0.5rem !important;
                   padding-bottom: 0.8rem !important;
                 "
